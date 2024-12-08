@@ -1,0 +1,13 @@
+.product-section button{
+    /* background-color: rgba(70, 236, 28, 0.596); */
+    
+}
+
+.product-section button:hover{
+    /* background-color: #47e21cd2; */
+    /* transition: all 0.3s; */
+}
+
+.product-section{
+    background-color: rgb(248, 248, 248);
+}
